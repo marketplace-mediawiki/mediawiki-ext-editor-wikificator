@@ -3,7 +3,7 @@
   "type": "mediawiki-extension",
   "description": "MediaWiki Editor: Wikificator.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://gitlab.com/marketplace-mediawiki",
+  "homepage": "https://github.com/marketplace-mediawiki",
   "keywords": [
     "mediawiki",
     "editor",
@@ -29,8 +29,8 @@
     }
   ],
   "support": {
-    "issues": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-editor-wikificator/issues",
-    "source": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-editor-wikificator"
+    "issues": "https://github.com/marketplace-mediawiki/mediawiki-ext-editor-wikificator/issues",
+    "source": "https://github.com/marketplace-mediawiki/mediawiki-ext-editor-wikificator"
   },
   "require": {
     "composer/installers": "~1.0",
